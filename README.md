@@ -14,6 +14,7 @@ UI/UX Designer - App Developer
 
 
 <b>My GitHub Stats</b>
+<br/>
 <img src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -24,22 +25,21 @@ UI/UX Designer - App Developer
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/pacman-contribution-graph.svg">
 </picture>
 
+<br/>
+<br/>
+<br/>
+
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="232" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="232" alt="languages graph"  />
+
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvaxerows&radius=16&theme=react&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvaxerows&radius=16&theme=react&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ZVAXEROWS">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ZVAXEROWS&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 ### Skills
 
