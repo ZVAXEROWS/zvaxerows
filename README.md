@@ -3,7 +3,7 @@ Hi 👋 My name is Ahmed Mohamed Khalaf
 
 UI/UX Designer - App Developer
 ------------------------------
-
+<br/>
 👋 Hi there! I'm a passionate developer and designer who enjoys building beautiful user interfaces and functional applications. I love working on creative projects, contributing to open-source, and continuously learning new tools and technologies. Whether it’s coding the logic or designing the user experience, I enjoy crafting digital products that make an impact.
 
 * 🌍  I'm based in Cairo - Egypt
@@ -12,7 +12,7 @@ UI/UX Designer - App Developer
 * 🧠  I'm learning Flutter
 
 
-
+<br/><br/>
 <b>My GitHub Stats</b>
 <br/>
 <img src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/snake.svg" alt="Snake animation" />
