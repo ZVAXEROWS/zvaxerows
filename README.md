@@ -11,12 +11,9 @@ UI/UX Designer - App Developer
 * ✉️  You can contact me at [ahmadmohamedk10@gmail.com](mailto:ahmadmohamedk10@gmail.com)
 * 🧠  I'm learning Flutter
 
-### Badges
+
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ZVAXEROWS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZVAXEROWS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <img src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -27,7 +24,6 @@ UI/UX Designer - App Developer
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
