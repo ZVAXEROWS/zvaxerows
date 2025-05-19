@@ -19,7 +19,7 @@ UI/UX Designer - App Developer
 <br/><br/><br/>
 <b>My GitHub Stats</b>
 <br/>
-<img src="https://raw.githubusercontent.com/zvaxerows/zvaxerows/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zvaxerows/ZVAXEROWS/output/snake.svg" alt="Snake animation" />
 
 ###
 
