@@ -5,16 +5,20 @@ UI/UX Designer - App Developer
 ------------------------------
 
 <br/>
-👋 Hi there! I'm a passionate developer and designer who enjoys building beautiful user interfaces and functional applications. I love working on creative projects, contributing to open-source, and continuously learning new tools and technologies. Whether it’s coding the logic or designing the user experience, I enjoy crafting digital products that make an impact.
-<br/>
-<br/>
-🌍  I'm based in Cairo - Egypt
-<br/>
-🖥️  See my portfolio at [Some Of my works](https://zvaxerows.github.io/portfolio/index.html)
-<br/>
-✉️  You can contact me at [ahmadmohamedk10@gmail.com](mailto:ahmadmohamedk10@gmail.com)
-<br/>
-🧠  I'm learning Flutter
+
+## 👋 About Me
+
+I'm a passionate **developer** and **designer** who enjoys building beautiful user interfaces and functional applications. I love working on creative projects, contributing to open-source, and continuously learning new tools and technologies. Whether it's coding logic or designing user experiences, I enjoy crafting digital products that make an impact.
+
+---
+
+- 🌍 I live in **Cairo, Egypt**  
+- 🖥️ Check out my portfolio: [Some of my works](https://zvaxerows.github.io/portfolio/index.html)  
+- ✉️ Contact me at: [ahmadmohamedk10@gmail.com](mailto:ahmadmohamedk10@gmail.com)  
+- 🧠 Currently learning: **Flutter**
+
+---
+
 
 <br/>
 <br/>
