@@ -78,19 +78,12 @@ UI/UX Designer - App Developer
 
 ---
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ZAXEROWS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZAXEROWS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAXEROWS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 ## 📱 Socials
-[![Website](https://img.shields.io/badge/Website-zvaxerows.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zvaxerows.github.io/portfolio/index.html)
 [![Behance](https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.com/fb2e33de)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zvaxerows)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/ZVAXEROWS)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ZVAXEROWS)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/amk._.17/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-2034a5316)
+[![Website](https://img.shields.io/badge/Website-zvaxerows.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zvaxerows.github.io/portfolio/index.html)
 
