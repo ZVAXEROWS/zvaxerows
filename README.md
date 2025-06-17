@@ -18,7 +18,7 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 ---
 
 
-
+---
 ### Skills
 
 ## 🎨 Design & UI/UX Tools
@@ -61,6 +61,7 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-2034a5316)
 [![Website](https://img.shields.io/badge/Website-zvaxerows.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zvaxerows.github.io/portfolio/index.html)
 
+---
 
 <br/><br/>
 <b>My GitHub Stats</b>
@@ -86,7 +87,7 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 <br/>
 <br/>
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zvaxerows&theme=onedark&no-frame=true&margin-w=10&margin-h=15" />
 </p>
