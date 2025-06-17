@@ -27,6 +27,8 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Spline](https://img.shields.io/badge/Spline-0A0A0A?style=for-the-badge&logo=spline&logoColor=white)
+
 
 ---
 
