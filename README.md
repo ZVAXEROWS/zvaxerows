@@ -16,34 +16,8 @@ UI/UX Designer - App Developer
 <br/>
 🧠  I'm learning Flutter
 
-
-<br/><br/><br/>
-<b>My GitHub Stats</b>
-<br/>
-<img src="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <br/>
 <br/>
-<br/>
-
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="192" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="192" alt="languages graph"  />
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvaxerows&radius=16&theme=react&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zvaxerows&label=Profile%20views&color=0e75b6&style=flat" alt="zvaxerows" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zvaxerows" alt="zvaxerows" /></a> </p>
-
 
 ### Skills
 
@@ -87,3 +61,33 @@ UI/UX Designer - App Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-2034a5316)
 [![Website](https://img.shields.io/badge/Website-zvaxerows.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zvaxerows.github.io/portfolio/index.html)
 
+
+<br/><br/><br/>
+<b>My GitHub Stats</b>
+<br/>
+<img src="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/snake.svg" alt="Snake animation" />
+
+
+<br/>
+<br/>
+<br/>
+
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="192" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="192" alt="languages graph"  />
+
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zvaxerows&radius=16&theme=react&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+<br/>
+
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zvaxerows&theme=onedark&no-frame=true&margin-w=10&margin-h=15" />
+</p>
