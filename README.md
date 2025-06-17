@@ -62,7 +62,7 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 [![Website](https://img.shields.io/badge/Website-zvaxerows.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zvaxerows.github.io/portfolio/index.html)
 
 
-<br/><br/><br/>
+<br/><br/>
 <b>My GitHub Stats</b>
 <br/>
 <img src="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/snake.svg" alt="Snake animation" />
@@ -70,11 +70,10 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 
 <br/>
 <br/>
-<br/>
 
 <div align="center" style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; max-width: 1000px; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=zvaxerows&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="192" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="192" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zvaxerows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="192" alt="languages graph"/>
 
 
 <br/>
