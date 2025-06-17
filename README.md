@@ -4,8 +4,6 @@ Hi 👋 My name is Ahmed Mohamed Khalaf
 UI/UX Designer - App Developer
 ------------------------------
 
-<br/>
-
 ## 👋 About Me
 
 I'm a passionate **developer** and **designer** who enjoys building beautiful user interfaces and functional applications. I love working on creative projects, contributing to open-source, and continuously learning new tools and technologies. Whether it's coding logic or designing user experiences, I enjoy crafting digital products that make an impact.
@@ -20,8 +18,6 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 ---
 
 
-<br/>
-<br/>
 
 ### Skills
 
