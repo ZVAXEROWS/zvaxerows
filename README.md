@@ -86,7 +86,7 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 <br/>
 <br/>
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zvaxerows&theme=onedark&no-frame=true&margin-w=10&margin-h=15" />
 </p>
