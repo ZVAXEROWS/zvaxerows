@@ -64,9 +64,11 @@ I'm a passionate **developer** and **designer** who enjoys building beautiful us
 <br/><br/>
 <b>My GitHub Stats</b>
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/snake.svg" alt="Snake animation" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZVAXEROWS/zvaxerows/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <br/>
