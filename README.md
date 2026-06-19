@@ -103,11 +103,6 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZVAXEROWS&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZVAXEROWS&theme=tokyonight&no-frame=true&margin-w=10&margin-h=15&column=7"/>
-</p>
 
 ## 🕹️ Contribution Graph — Arcade Mode
 
