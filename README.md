@@ -30,6 +30,16 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph.svg"/>
+  </picture>
+</p>
+
+---
+
 ## 👋 About Me
 
 I'm a third-year Computer Science student at the Faculty of Computer and Information Sciences, Ain Shams University, working at the intersection of **UI/UX design** and **software development**. I currently lead the design team as **Head of UI/UX & Design at ConnectX**, and I build cross-platform apps, 2D games, and the occasional systems-level project for fun.
@@ -99,16 +109,7 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZVAXEROWS&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </p>
 
-
-## 🕹️ Contribution Graph — Arcade Mode
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ZVAXEROWS/ZVAXEROWS/output/pacman-contribution-graph.svg"/>
-  </picture>
-</p>
+---
 
 <p align="center">
   <picture>
