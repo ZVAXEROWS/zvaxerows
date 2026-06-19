@@ -55,12 +55,8 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 
 ## 🛠️ Tech Stack
 
-**Languages**
 [![Languages](https://skillicons.dev/icons?i=bash,dart,scala,flutter,java,python,js,ts,cpp,cs,html,css)](https://skillicons.dev)
 
-**Frameworks & Tools**
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-07425F?style=for-the-badge&logo=sfml&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
