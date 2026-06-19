@@ -81,16 +81,15 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 
 | Project | Description |
 |---|---|
-| [dot-man](https://github.com/ZVAXEROWS/dot-man) | 🔧 Python CLI dotfile manager — git-branch-per-config, secret redaction, sync hooks, shell completions |
-| [FOS – FCIS Operating System](https://github.com/ZVAXEROWS) | 🖥️ C systems project — fixed CLI rendering bugs, implemented insert mode, dynamic memory allocation, QEMU integration |
-| [cppml](https://github.com/ZVAXEROWS) | 📐 C++ machine learning library built from scratch — linear/polynomial regression, scaling, matrix ops |
-| [Text Completer](https://github.com/ZVAXEROWS) | ⌨️ Real-time autocomplete widget — custom trie backend + Qt UI with focus-expand CSS theming |
-| [Examination System](https://github.com/ZVAXEROWS) | 📝 Java OOP exam platform — timed delivery, grading, encryption, role-based access |
-| [Heart Disease Prediction](https://github.com/ZVAXEROWS) | ❤️ Python/Streamlit ML app predicting heart disease risk from patient data |
-| [Money Insights](https://github.com/ZVAXEROWS) | 💰 Flutter personal finance tracker with visual expense/savings reports |
-| [ConnectX Website](https://github.com/ZVAXEROWS) | 🌐 Figma-to-production website for ConnectX — hackathons, mission, committees |
+| [dot-man](https://github.com/BeshoyEhab/dot-man) | 🔧 Python CLI dotfile manager — git-branch-per-config, secret redaction, sync hooks, shell completions |
+| [FOS – FCIS Operating System](https://github.com/BeshoyEhab/FCIS-OS) | 🖥️ C systems project — fixed CLI rendering bugs, implemented insert mode, dynamic memory allocation, QEMU integration |
+| [cppml](https://github.com/ZVAXEROWS/cppml) | 📐 C++ machine learning library built from scratch — linear/polynomial regression, scaling, matrix ops |
+| [Text Completer](https://github.com/BeshoyEhab/DS-5-Project) | ⌨️ Real-time autocomplete widget — custom trie backend + Qt UI with focus-expand CSS theming |
+| [Examination System](https://github.com/ZVAXEROWS/OOP_Project) | 📝 Java OOP exam platform — timed delivery, grading, encryption, role-based access |
+| [Heart Disease Prediction](https://github.com/BeshoyEhab/ECG-Project) | ❤️ Python/Streamlit ML app predicting heart disease risk from patient data |
+| [Flexing](https://github.com/ZVAXEROWS/Flexing) | 📝 A project that uses multiple languages ​​together to implement multilingual application development.  |
+| [ConnectX Website](https://github.com/Connect-X-237/Connect_X) | 🌐 Figma-to-production website for ConnectX — hackathons, mission, committees |
 
-> Update the links above once each repo is public, then pin your top 4-6 from `Customize your pins` on your profile.
 
 ---
 
