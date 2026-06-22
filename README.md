@@ -97,8 +97,7 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&include_all_commits=true" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZVAXEROWS&hide=html,css,jupyter%20notebook&theme=tokyonight&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZVAXEROWS&hide=html,css,js,jupyter%20notebook&theme=tokyonight&layout=compact" height="160"/>
 </p>
 
 <p align="center">
