@@ -81,6 +81,7 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 
 | Project | Description |
 |---|---|
+| [cudaml](https://github.com/ZVAXEROWS/ML_CPP-CU) | ⚡ CUDA-Accelerated Machine Learning in C++. A from-scratch machine learning library written in C++ CUDA, leveraging GPU parallelism for high-speed regression training on real-world datasets.  |
 | [dot-man](https://github.com/BeshoyEhab/dot-man) | 🔧 Python CLI dotfile manager — git-branch-per-config, secret redaction, sync hooks, shell completions |
 | [FOS – FCIS Operating System](https://github.com/BeshoyEhab/FCIS-OS) | 🖥️ C systems project — fixed CLI rendering bugs, implemented insert mode, dynamic memory allocation, QEMU integration |
 | [cppml](https://github.com/ZVAXEROWS/cppml) | 📐 C++ machine learning library built from scratch — linear/polynomial regression, scaling, matrix ops |
@@ -89,6 +90,10 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 | [Heart Disease Prediction](https://github.com/BeshoyEhab/ECG-Project) | ❤️ Python/Streamlit ML app predicting heart disease risk from patient data |
 | [Flexing](https://github.com/ZVAXEROWS/Flexing) | 📝 A project that uses multiple languages ​​together to implement multilingual application development.  |
 | [ConnectX Website](https://github.com/Connect-X-237/Connect_X) | 🌐 Figma-to-production website for ConnectX — hackathons, mission, committees |
+
+ 
+
+   
 
 
 ---
