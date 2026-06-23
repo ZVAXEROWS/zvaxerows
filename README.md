@@ -101,7 +101,7 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZVAXEROWS&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZVAXEROWS&radius=16&theme=tokyo-night&area=true&hide_border=true" width="70%"/>
 </p>
 
 ---
