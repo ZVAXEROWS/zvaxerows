@@ -101,7 +101,8 @@ I'm a third-year Computer Science student at the Faculty of Computer and Informa
 ## 📊 GitHub Stats
 
 <p align="center" width="750">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZVAXEROWS&hide=html,css,jupyter%20notebook&theme=tokyonight&layout=compact&hide_border=true" width="300"/>
+  
+  <img src="https://bishoy-github-readme-stats.vercel.app/api/top-langs/?username=ZVAXEROWS&hide=html,css,jupyter%20notebook&theme=tokyonight&layout=compact&hide_border=true" width="300"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZVAXEROWS&theme=tokyonight&hide_border=true"  width="420"/>
 </p>
 <p align="center">
